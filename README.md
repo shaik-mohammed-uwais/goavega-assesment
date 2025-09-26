@@ -7,5 +7,5 @@
 ## Project structure
 - `main.js` is the entry point of the program.
 - `evaluateCron.js` handles the parsing of corn expansion.
-- `helper.js` a healper function to generate range of numbers.
+- `helper.js` a healper function to generate range of numbers and check if its in valid range.
 
